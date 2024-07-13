@@ -18,4 +18,4 @@ app = Client(
      bot_token=bot_token
      )
 
-     app.run
+     app.run()
